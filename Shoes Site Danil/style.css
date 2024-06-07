@@ -340,7 +340,7 @@ h4 {
 
 /* CUSTOMERS AND REVIEW END */
 
-/* Three models */
+
 
 .ThreeModels {
     margin-left: 813.93px;
@@ -1142,7 +1142,6 @@ h4 {
 /* HEADER END */
 
 /* MAIN START*/
-/* Media queries for responsiveness */
 @media (max-width: 1600px) {
     .container {
         max-width: 1520px;
